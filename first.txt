@@ -3,3 +3,4 @@ Gitの編集をしていきます。
 ・git add
 ・git commit
 ・git remove
+・git status
